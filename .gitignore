@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+modules/__pycache__/
+*.py[cod]
+*$py.class
+
+# Project folders
+videos/
+# credentials/
+config.yml
+
+yarn-error.log
+
+# Browser cookies files
+# *cookies*.json
+
+# uploads list files
+uploads_*.json
+
+
+# Node
+node_modules/

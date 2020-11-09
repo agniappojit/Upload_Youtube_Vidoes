@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "catch-exit": "^1.0.3",
+    "commander": "^6.1.0",
+    "progress": "^2.0.3",
+    "puppeteer": "^5.3.1"
+  }
+}
